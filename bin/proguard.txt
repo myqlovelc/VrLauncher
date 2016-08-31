@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.cgl.vrlauncher.Main { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.cgl.vrlauncher.Service1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.cgl.vrlauncher.Service2 { <init>(...); }
+
