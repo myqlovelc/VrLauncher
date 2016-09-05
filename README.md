@@ -1,0 +1,2 @@
+An android app to open another application, there are two services based on two different processes running on background monitoring eacher other. 
+if service A terminated, services B will detect it and restart service A, and vice versa.
